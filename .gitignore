@@ -1,0 +1,5 @@
+/lab3-v2/bin
+/lab3-v2/obj
+/MNIST_data
+AForge.dll
+AForge.Neuro.dll

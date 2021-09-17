@@ -15,4 +15,4 @@ This application is a tool for creating and training a neural network for the re
 * Select or type the directory with testing set and click ('Ok' or 'Choose')
 * Enter training props and press the 'Train' button. The neural net training will begin. To display a learning progress chart, select Checkbox 'Chart'.
 
-[Recommended Setup](02-5min29net.png)
+![Recommended Setup](02-5min29net.png)
